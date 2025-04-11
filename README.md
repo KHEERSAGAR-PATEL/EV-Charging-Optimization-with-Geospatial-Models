@@ -125,7 +125,7 @@ intel-ml-optimized-suite/
 
 
 
-## ❤️ Made with Love by *Kheer Sagar Patel**  
+## ❤️ Made with Love by *Kheer Sagar Patel* 
 *M.Tech in AI & ML, IIITDM Jabalpur*  
 > Blending research depth with real-world engineering.  
 > Building ML systems that are elegant, optimized, and impactful.
